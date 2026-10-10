@@ -7,6 +7,23 @@ and automatic billing — everything with a clean, classy look.
 Built as my second-year diploma project (Computer Science & Engineering,
 Govt Polytechnic Sikandra).
 
+## Screenshots
+
+![Dashboard](screenshots/1-dashboard.png)
+*Dashboard — sidebar navigation, stat cards, colour-coded room table*
+
+![Booking dialog](screenshots/2-booking-dialog.png)
+*Booking form — only available rooms are listed*
+
+![Bookings tab](screenshots/4-bookings-tab.png)
+*All active bookings in one table*
+
+![Bill with payment options](screenshots/5-bill-payment.png)
+*Final bill with payment options (UPI selected)*
+
+![Revenue tracker](screenshots/6-revenue.png)
+*Revenue card updates after every check-out*
+
 ## Screens
 
 - **Dashboard** — sidebar navigation, stat cards (total / available /
